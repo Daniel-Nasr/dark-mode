@@ -1,0 +1,15 @@
+body{
+  background: #f2f3f7;
+}
+.dark{
+  background: #161616;
+}
+button{
+  color: black;
+  border: 1px solid black;
+  background: transparent;
+}
+.dark button{
+  color: white;
+  border-color: white; 
+}
